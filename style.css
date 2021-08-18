@@ -1,0 +1,31 @@
+body {
+  background-color: powderblue;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #1abc9c;
+  color: blue;
+  font-size: 20px;
+}
+
+h1 {
+  color: Red;
+  font-size: 50px;
+}
+
+h5{
+  color: black;
+  font-size: 40px;
+
+}
+
+
+h2 {
+  color: black;
+  font-size: 35px;
+}
