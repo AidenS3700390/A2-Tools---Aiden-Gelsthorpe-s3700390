@@ -8,7 +8,7 @@ body {
 .header {
   padding: 20px;
   text-align: center;
-  background: #1abc9c;
+  background: steelblue;
   color: blue;
   font-size: 20px;
 }
@@ -16,16 +16,18 @@ body {
 h1 {
   color: Red;
   font-size: 50px;
+  font-family: Rubik;
 }
 
 h5{
-  color: black;
+  color: white;
   font-size: 40px;
-
+  font-weight: 400;
 }
 
 
 h2 {
   color: black;
   font-size: 35px;
+  font-family: Rubik;
 }
