@@ -3,6 +3,7 @@ body {
   margin-top: 50px;
   margin-left: 200px;
   margin-right: 200px;
+  margin-bottom: 50px;
 }
 
 .header {
@@ -35,13 +36,16 @@ h2 {
 h3 {
   font-size: 20px;
   font-weight: 400;
+  font-family: Rubik;
 }
 
 h4{
   font-size: 22.5px;
   font-weight: 600;
+  font-family: Rubik;
 }
 
 p{
   font-size: 15px;
+  text-align: justify;
 }
